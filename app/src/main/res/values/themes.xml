@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.SmartAlert" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColorLight</item>
+        <item name="colorSecondary">@color/secondaryColorLight</item>
+        <item name="android:textColor">@color/textColorLight</item>
+    </style>
+
+    <!-- Toolbar style for the light theme -->
+    <style name="Toolbar.Light" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/primaryColorLight</item>
+        <item name="android:navigationIcon">@drawable/baseline_arrow_back_24_black</item>
+    </style>
+
+    <!-- Theme for the SmartAlert app -->
+    <style name="Theme.SmartAlert" parent="Base.Theme.SmartAlert">
+        <!-- Customize the toolbar style for the light theme -->
+        <item name="toolbarStyle">@style/Toolbar.Light</item>
+    </style>
+
+    <!-- Theme for the SmartAlert app without ActionBar -->
+    <style name="Theme.SmartAlert.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- AppBarOverlay style -->
+    <style name="Theme.SmartAlert.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <!-- PopupOverlay style -->
+    <style name="Theme.SmartAlert.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

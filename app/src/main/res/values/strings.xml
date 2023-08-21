@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="log_in_with_google">Log in with Google</string>
+    <string name="smartalert">SmartAlert</string>
+    <string name="build_a_safer_world_together">Build a safer world, together</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="or">or</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="continueBtn">Continue</string>
+    <string name="default_client">561428359220-cb351fecfll89el6bkdl63lf062cnldr.apps.googleusercontent.com</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in"><u>Log In</u></string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="add_your_comments">Add your comments</string>
+    <string name="add_your_comments_in_greek_language">Add your comments in Greek language</string>
+    <string name="reject_the_incident">Reject the incident</string>
+    <string name="are_you_sure_about_rejecting_the_incident_described">Are you sure about rejecting the incident described?</string>
+    <string name="yes">Yes</string>
+    <string name="fire_alert">Fire alert</string>
+    <string name="flood_alert">Flood alert</string>
+    <string name="earthquake_alert">Earthquake alert</string>
+    <string name="other_alert">Other urgent situation</string>
+    <string name="civil_protection_worker">Civil Protection Worker</string>
+    <string name="civilian">Civilian</string>
+    <string name="civilian_civil_protection_worker">Civilian/ Civil Protection Worker</string>
+    <string-array name="tab_titles">
+        <item>Fire</item>
+        <item>Earthquake</item>
+        <item>Flood</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="uploaded_successfully">Uploaded successfully!</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartAlert" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColorDark</item>
+        <item name="colorSecondary">@color/secondaryColorDark</item>
+        <item name="android:textColor">@color/textColorDark</item>
+    </style>
+    <style name="Toolbar.DarkTheme" parent="Widget.AppCompat.Toolbar">
+        <!-- Customize the back button color for the light theme -->
+        <item name="android:background">@color/primaryColorDark</item>
+        <item name="android:navigationIcon">@drawable/baseline_arrow_back_white</item>
+    </style>
+</resources>

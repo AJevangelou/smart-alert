@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="log_in_with_google">Σύνδεση με Google</string>
+    <string name="smartalert">SmartAlert</string>
+    <string name="build_a_safer_world_together">Ας δημιουργήσουμε έναν ασφαλέστερο κόσμο, μαζί</string>
+    <string name="enter_your_password">Πληκτρολογήστε τον κωδικό σας</string>
+    <string name="enter_your_email">Πληκτρολογήστε το email σας</string>
+    <string name="or">ή</string>
+    <string name="dont_have_an_account">Δεν έχετε λογαριασμό;</string>
+    <string name="sign_up"><u>Δημιουργία</u></string>
+    <string name="continueBtn">Συνέχεια</string>
+    <string name="default_client">561428359220-cb351fecfll89el6bkdl63lf062cnldr.apps.googleusercontent.com</string>
+    <string name="register">Συνέχεια</string>
+    <string name="already_have_an_account">Έχετε ήδη λογαριασμό;</string>
+    <string name="log_in"><u>Συνδεθείτε</u></string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="accept">Αποδοχή</string>
+    <string name="decline">Απόρριψη</string>
+    <string name="add_your_comments">Προσθέστε περιγραφή και οδηγίες στα αγγλικά</string>
+    <string name="add_your_comments_in_greek_language">Προσθέστε περιγραφή και οδηγίες στα ελληνικά</string>
+    <string name="reject_the_incident">Απόρριψη του συμβάντος</string>
+    <string name="are_you_sure_about_rejecting_the_incident_described">Είστε σίγουρος για την απόρριψη του συμβάντος;</string>
+    <string name="yes">Επιβεβαίωση</string>
+    <string name="fire_alert">Προειδοποίηση για φωτιά</string>
+    <string name="flood_alert">Προειδοποίηση για πλυμμήρα</string>
+    <string name="earthquake_alert">Προειδοποίηση για σεισμό</string>
+    <string name="other_alert">Άλλη κατάσταση κινδύνου</string>
+    <string name="civil_protection_worker">Υπάλληλος Πολιτικής Προστασίας</string>
+    <string name="civilian">Πολίτης</string>
+    <string name="civilian_civil_protection_worker">Πολίτης/ Υπάλληλος Πολιτικής Προστασίας</string>
+    <string name="uploaded_successfully">Επιτυχής αναφορά συμβάντος!</string>
+    <string-array name="tab_titles">
+        <item>Φωτιά</item>
+        <item>Σεισμός</item>
+        <item>Πλημμύρα</item>
+        <item>Άλλο</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561428359220",
+    "firebase_url": "https://smartalert-a241f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartalert-a241f",
+    "storage_bucket": "smartalert-a241f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561428359220:android:3a5afaf5e3f2c3d939c261",
+        "android_client_info": {
+          "package_name": "com.example.smartalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561428359220-9n2fm6nr2vojces4uoke2slvan3ds79l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartalert",
+            "certificate_hash": "2d79febe61a0b55d870982d24023c9adb479905b"
+          }
+        },
+        {
+          "client_id": "561428359220-cb351fecfll89el6bkdl63lf062cnldr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWdDvgn0FFS48HY2dORu_5rDvfD1FJ4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561428359220-0melk7i4iougbus1q3fglfsl19q2ctmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
