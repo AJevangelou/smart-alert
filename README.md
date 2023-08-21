@@ -55,10 +55,6 @@ The users can report incidents which are later evaluated by the Civil Protection
 
 The user can view statistics based on the number of incidents reported in the app.
 
-## Acknowledgements
-
-[Give credit to any resources, libraries, or individuals that contributed to the project.]
-
 ## License
 
 Copyright [2023] John Alexander Evangelou
