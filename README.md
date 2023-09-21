@@ -41,7 +41,7 @@ and other natural disasters.
 
 ## Backend Implementation
 
-[Explain how the backend ranking system works, including the two severity criteria and how they are weighted.]
+- For the backend i have implemented Firebase Authentication and Realtime Database. 
 
 ## Localization
 
