@@ -55,6 +55,22 @@ The users can report incidents which are later evaluated by the Civil Protection
 
 The user can view statistics based on the number of incidents reported in the app.
 
+## Screenshots Overview
+
+### Log In Screen
+<img width="144" alt="image" src="https://github.com/AJevangelou/smart-alert/assets/35777043/a3eec092-4226-4b9d-83f5-bee51c1c6404">  <img width="144" alt="image" src="https://github.com/AJevangelou/smart-alert/assets/35777043/01b1d6e4-88bd-46f3-b30e-ebdd6c18bdb4">
+
+
+
+### Main Activity Screen
+<img width="131" alt="image" src="https://github.com/AJevangelou/smart-alert/assets/35777043/ea69ab0d-2da7-4d26-a135-6c96f37dc348">  <img width="132" alt="image" src="https://github.com/AJevangelou/smart-alert/assets/35777043/55a2488b-3055-4c34-bb01-6964915cf0e6">
+
+### Reporting an Incident
+<img width="157" alt="image" src="https://github.com/AJevangelou/smart-alert/assets/35777043/6a25685d-6bea-4d4f-9efe-014356f3fc13">  <img width="158" alt="image" src="https://github.com/AJevangelou/smart-alert/assets/35777043/21e390cb-0869-4917-98df-12c0d100507c">
+
+### Inbox Activity for Civilian Workers
+<img width="137" alt="image" src="https://github.com/AJevangelou/smart-alert/assets/35777043/dd324e54-fbb8-492b-998d-c17a6b79c986">  <img width="139" alt="image" src="https://github.com/AJevangelou/smart-alert/assets/35777043/713a98a2-1287-4272-bcf1-70a9373dfe7f">
+
 ## License
 
 Copyright [2023] John Alexander Evangelou
